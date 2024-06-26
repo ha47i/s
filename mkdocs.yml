@@ -4,6 +4,7 @@ site_url: https://ha47i.github.io/s
 nav:
   - 首页: index.md
   - 随手记:
+    - 为什么北约…: ssj/005.md
     - 星怒们听好了: ssj/004.md
     - (//へ//): ssj/003.md
     - 正在播放：: ssj/002.md
