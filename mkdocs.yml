@@ -1,0 +1,99 @@
+site_name: IceLiuliの小站
+site_url: https://ha47i.github.io/s
+
+nav:
+  - 首页: index.md
+  - 随手记:
+    - 星怒们听好了: ssj/004.md
+    - (//へ//): ssj/003.md
+    - 正在播放：: ssj/002.md
+    - 这篇很六: ssj/001.md
+  - 基础文档:
+    - 基础用法: jichu/yongfa.md
+    - 初始页面: jichu/chushi.md
+    - 预览字体: jichu/ttf.md
+  - 关于本站:
+    - UI框架: about/ui.md
+    - 写作语言: about/lang.md
+    - 你知道吗？: about/fact.md
+
+theme:
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.view
+  palette:
+    # scheme: IceLiuli
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 当前为跟随系统，点击切换为浅色模式
+
+    # # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: IceLiuli
+      toggle:
+        icon: material/brightness-7
+        name: 当前为浅色模式，点击切换为深色模式
+
+    # # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: IceLiuli-dark
+      toggle:
+        icon: material/brightness-4
+        name: 当前为深色模式，点击切换为跟随系统
+  font:
+    text: Josefin Sans
+  language: zh
+  logo: midea/favicon.png
+  favicon: midea/favicon.png
+  icon:
+    repo: simple/thealgorithms
+
+edit_uri: raw/main/docs/
+repo_url: https://github.com/ha47i/s
+repo_name: ha47i.github.io/s
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+        - ja
+  - tags
+
+extra_css:
+  - extra/extra.css
+
+extra:
+  generator: false
+  # social: # icons
+    # - name: GitHub | ha47i
+      # icon: fontawesome/brands/github
+      # link: https://github.com/ha47i
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      linenums: true
+      auto_title: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - footnotes
+
+copyright: Copyright &copy; 2024 IceLiuLi 保留所有权利。
