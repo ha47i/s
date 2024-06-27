@@ -123,12 +123,13 @@
 
 @media screen and (min-width: 60em) {
   .md-search__form {
-    background-color: transparent;
+    /*background-color: transparent;*/
+    background-color: #80808012;
     height: 1.8rem
   }
 
   .md-search__form:hover {
-    background-color: #ffffff1f
+    background-color: #80808030
   }
 }
 
