@@ -3,23 +3,28 @@ site_url: https://ha47i.github.io/s
 
 nav:
   - 首页: index.md
-  - 随手记:
+  - 随笔:
+    - 随笔: ssj/index.md
     - 为什么北约…: ssj/005.md
     - 星怒们听好了: ssj/004.md
     - (//へ//): ssj/003.md
     - 正在播放：: ssj/002.md
     - 这篇很六: ssj/001.md
   - MinecraftBE:
+    - MinecraftBE: mc/index.md
     - 投影资源包: mc/002.md
     - 模板预览器: mc/001.md
   - Galgame:
+    - Galgame: gal/index.md
     - Mobox: gal/mobox.md
   - 基础文档:
+    - 基础文档: jichu/index.md
     - 语法学习: jichu/yufa.md
     - 基础用法: jichu/yongfa.md
     - 初始页面: jichu/chushi.md
     - 预览字体: jichu/ttf.md
   - 关于本站:
+    - 关于本站: about/index.md
     - UI框架: about/ui.md
     - 写作语言: about/lang.md
     - 你知道吗？: about/fact.md
