@@ -12,6 +12,8 @@ nav:
   - MinecraftBE:
     - 投影资源包: mc/002.md
     - 模板预览器: mc/001.md
+  - Galgame:
+    - Mobox: gal/mobox.md
   - 基础文档:
     - 语法学习: jichu/yufa.md
     - 基础用法: jichu/yongfa.md
