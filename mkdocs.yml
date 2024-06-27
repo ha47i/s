@@ -64,8 +64,8 @@ theme:
   font:
     text: Josefin Sans
   language: zh
-  logo: midea/favicon.png
-  favicon: midea/favicon.png
+  logo: mti/favicon.png
+  favicon: mti/favicon.png
   icon:
     repo: simple/thealgorithms
 

@@ -51,18 +51,18 @@ text
 
 第一张图片是带链接的。
 
-[![](./1.png){width="300"}](https://github.com)
+[![](../mti/example.png){width="300"}](https://github.com)
 
-![](./1.png){width="50%"}
+![](../mti/example.png){width="50%"}
 
-![](./1.png){width="40%"}
-![](./1.png){width="40%"}
+![](../mti/example.png){width="40%"}
+![](../mti/example.png){width="40%"}
 
 ## 卡片
 
 <div class="grid cards" markdown>
 
--   <img src="../1.png"/> __卡片标题__
+-   <img src="../../mti/example.png"/> __卡片标题__
     
     ---
 
