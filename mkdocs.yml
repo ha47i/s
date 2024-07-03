@@ -18,6 +18,8 @@ nav:
   - Galgame:
     - Galgame: gal/index.md
     - Mobox: gal/mobox.md
+    - KR2模拟器: gal/runner.md
+    - Nekopara: gal/nekopara.md
   - 基础文档:
     - 基础文档: jichu/index.md
     - 语法学习: jichu/yufa.md
