@@ -1,3 +1,13 @@
+# 这个博客已过时！
+
+这里的（域名/s/*）一切内容皆已过时！！！
+
+[前往最新个人主页](https://luckyy.qzz.io/)
+
+[前往最新博客](https://blog.luckyy.qzz.io/)
+
+这里的内容已经没有参考价值，仅作为考古（看看以前的我做的东西）使用。
+
 # IceLiuliの小站
 
 <font color=lightgreen size=5>心若有所向往，何惧道阻且长。</font>
